@@ -97,7 +97,7 @@ LỖI THƯỜNG GẶP:
 - Không đổi file ass sang srt
 - Tên video không trùng với tên file sub (không tính đuôi -vi-vi)
 
-### 5. Đăng bài lên page bật kiếm tiền
+### 6. Đăng bài lên page bật kiếm tiền
 - Vào "Team Adb Offline" để xem những video nào muốn đăng
 - Vào driver nơi lưu trữ những video đó và lấy link driver
 - Vào vps đang quản lý
