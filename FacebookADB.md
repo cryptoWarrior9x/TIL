@@ -86,10 +86,12 @@ Các bước thực hiện:
 - Đổi file .ass sang .srt bằng web https://sorz.github.io/asstosrt-wasm/
 - Mở Pycharm (Phần mềm có biểu tượng PC) lên
 - Điền vào video_list tên video và các ngôn ngữ muốn chạy. Ví dụ: 
-	video_list = {
+    ```
+    video_list = {
     	'rvcs_cuoc_duoi_bat_cua_chu_soc': ['es-mx', 'tl-tl', 'id-id', 'vi-vi'],
     	'rvcs_dan_nha_giau_dubai': ['es-mx', 'tl-tl', 'id-id', 'vi-vi'],
     }
+    ```
 - Nhấn chuột phải --> chọn Run "Main"
 
 LỖI THƯỜNG GẶP:
