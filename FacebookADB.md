@@ -98,6 +98,14 @@ LỖI THƯỜNG GẶP:
 - Điền sai tên ở video list
 - Không đổi file ass sang srt
 - Tên video không trùng với tên file sub (không tính đuôi -vi-vi)
+- Thời gian của sub dài hơn thời gian video
+- NẾU TOOL CHẠY BỊ LỖI THÌ LÀM CÁC BƯỚC SAU:
+ - Độ dài sub với video đã chuẩn chưa?
+ - Video với file sub đã đặt đúng tên chưa?
+ - video_list điền chuẩn tên chưa?
+ - Sau khi check xong thì chạy lại tool
+ - Nếu vẫn lỗi thì liên hệ anh
+
 
 ### 6. Đăng bài lên page bật kiếm tiền
 - Vào "Team Adb Offline" để xem những video nào muốn đăng
