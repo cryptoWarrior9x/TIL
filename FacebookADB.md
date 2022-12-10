@@ -99,7 +99,8 @@ LỖI THƯỜNG GẶP:
 - Không đổi file ass sang srt
 - Tên video không trùng với tên file sub (không tính đuôi -vi-vi)
 - Thời gian của sub dài hơn thời gian video
-- NẾU TOOL CHẠY BỊ LỖI THÌ LÀM CÁC BƯỚC SAU:
+
+NẾU TOOL CHẠY BỊ LỖI THÌ LÀM CÁC BƯỚC SAU:
  - Độ dài sub với video đã chuẩn chưa?
  - Video với file sub đã đặt đúng tên chưa?
  - video_list điền chuẩn tên chưa?
